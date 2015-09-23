@@ -33,8 +33,6 @@ body {
 <ul>
 <li><a href="/internal/">Internal (Erb) template</a></li>
 <li><a href="/erb/">External (Erb) template</a></li>
-<li><a href="/haml/">External (Haml) template</a></li>
-<li><a href="/static.html">Static HTML</a></li>
 </ul>
 </p>
 </body>
